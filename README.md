@@ -1,2 +1,3 @@
 # Araclovers
-Pour imaginer ensemble l'avenir de notre vallée de l'Arac
+Pour imaginer et construire ensemble l'avenir de la
+vallée de l'Arac
