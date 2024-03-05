@@ -62,6 +62,7 @@ La Ferme des Légumes et des Rêves est heureuse de mettre dans votre assiette l
 ---
 
 ## Inspirer
+![ver de tgerre surpris](photos/illustrations/heudebert-surpris.png)
 Idéalement située pour communiquer, en tête de proue de l’entrée ouest de la vallée, la Ferme des Légumes et des Rêves est consciente de son rôle à jouer comme espace de communication très visuel.
 Elle se veut un lieu inspirant et engagé vers des idéaux de gratitude envers le vivant et valorisation de la part belle de l’humain.
 L’accès au foncier pour les nouvelles générations est un problème réel, aussi bien pour l’habitat que les terres agricoles. La Ferme des Légumes et des Rêves met les voiles vers :
