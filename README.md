@@ -1,6 +1,6 @@
 # Des légumes et des rêves
+![heudebert le ver de terre](photos/illustrations/heudebert-cote-petit.png)
 ![heudebert le ver de terre](photos/illustrations/heudebert-cote.png)
-
 ## Une ferme dédiée à l'autonmie alimentaire de la vallée de l'Arac
 Au coeur des Pyrénées, dans le Parc Régional du Couserans, on ne cesse pas de continuer à rêver!
 ![vue de la ferme dans la vallée](photos/ferme-et-vallee-vu-du-ker.jpg)
