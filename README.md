@@ -41,6 +41,7 @@ Permacultrice diplômée mais aussi exploratrice de l’agroforesterie, du mara�
 ---
 
 ## La culture avec et sans les bottes
+![ver de terre](photos/illustrations/heudebert-dessus.png)
 La fondatrice de la Ferme des Légumes et des Rêves, Hélène Decarpignies, fut artiste lyrique professionnelle dans une autre vie. Chaque occasion est bonne pour elle de mêler le champs et le chant : tous ses légumes sont nourris de mantras (chants sacrés) et airs d’opéra !
 A lla Ferme des Légumes et des Rêves, la Culture aussi est en circuit très court :
 -benregistrement en disque du répertoire traditionnel de Massat avec les habitants de la vallée
