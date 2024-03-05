@@ -26,7 +26,7 @@ Eco-rénovation avec isolation en terre et paille du terrain, partage de l’hab
 ## Autonomie alimentaire 
 Ne nous leurrons pas, les légumes c’est délicieux mais actuellement sur terre, 75 % de l’alimentation humaine serait des céréales. Les anciens de la vallée ont été témoins des cultures de blé, de seigle, de sarrasin, de maïs. Bien sûr, il y avait10 fois plus de bras qu’aujourd’hui et pas de taxes sur le travail, mais tous ensemble nous pouvons le faire.
 la Ferme des Légumes et des Rêves lance une grande collecte citoyenne de fonds pour acheter une mini-moissonneuse batteuse. Nous pourrons ainsi récolter toutes les céréales mais aussi les légumineuses comme les lentilles, les haricots secs et les même le colza pour l’huile. 
-![fauche collective du sarrasin](photos/fauche du sarrasin.jpg)
+![fauche collective du sarrasin](photos/fauche-du-sarrasin.jpg)
 ---
 
 ## Engagement politique
