@@ -26,7 +26,7 @@ Eco-rénovation avec isolation en terre et paille du terrain, partage de l’hab
 ## Autonomie alimentaire 
 Ne nous leurrons pas, les légumes c’est délicieux mais actuellement sur terre, 75 % de l’alimentation humaine serait des céréales. Les anciens de la vallée ont été témoins des cultures de blé, de seigle, de sarrasin, de maïs. Bien sûr, il y avait10 fois plus de bras qu’aujourd’hui et pas de taxes sur le travail, mais tous ensemble nous pouvons le faire.
 la Ferme des Légumes et des Rêves lance une grande collecte citoyenne de fonds pour acheter une mini-moissonneuse batteuse. Nous pourrons ainsi récolter toutes les céréales mais aussi les légumineuses comme les lentilles, les haricots secs et les même le colza pour l’huile. 
-
+![fauche collective du sarrasin](photos/fauche du sarrasin.jpg)
 ---
 
 ## Engagement politique
@@ -36,6 +36,7 @@ La ferme est syndiquée à la Confédération Paysanne pour soutenir le maintien
 
 ## Engagement écologique paysan
 Permacultrice diplômée mais aussi exploratrice de l’agroforesterie, du maraîchage sur sol vivant, de la biodynamie, Hélène Decarpignies, la fondatrice de la la Ferme des Légumes et des Rêves a choisi de cultiver bio. Bien sûr, c’est pour aller plus loin que le bio abusif des firmes internationales mais en rendant quand même hommage à un demi-siècle de sensibilisation sans relâche aux abus de la révolution verte, à la demande de transparence sur les intrants, les ogm, les pesticides homicides. A l’heure des grands retours en arrière, de la main basse inexorable des plus riches sur les richesses générées par les plus pauvres, ici on continue à rêver bio-local-éthique. 
+![Helene Decarpignies dans sa serre](photos/moi-dans-la-serre.jpg)
 
 ---
 
