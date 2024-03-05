@@ -7,7 +7,7 @@ Au coeur des Pyrénées, dans le Parc Régional du Couserans, on ne cesse pas de
 ## Circuit très très court
 la Ferme des Légumes et des Rêves n’est pas médecin de famille mais se veut Ferme de Famille. 
 Elle est dédiée aux habitants de la vallée. Consommer local c’est participer au vaste élan mondial pour rendre les peuples souverains de leur alimentation et affaiblir le ténia de la finance internationale. Chaque euro dépensé en circuit court participe à la construction du paradis local dans lequel nous vivons et non d’un paradis fiscal dans lequel nous ne vivons pas (eh oui, la grande distribution agro-alimentaire c’est aussi la grande exaction des richesses de tous au profit de quelques uns).
-
+![papillon](photos/illustrations/papillon4.png)
 la Ferme des Légumes et des Rêves commercialise tous ses produits à moins de 10 km :
 - pour la cantine des écoles à Massat
 - dans les 3 épiceries de la vallée : les 7 vallées à Massat-magasin bio, l’EPI- épicerie particiative de produits locaux à Castet d’Aleu, l’Espies gourmand à Boussenac
