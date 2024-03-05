@@ -58,6 +58,7 @@ A lla Ferme des Légumes et des Rêves, la Culture aussi est en circuit très co
 Il faut être amoureux-se de la montagne et de cette vallée retirée pour s’y établir durablement.
  Quel bonheur de se noyer dans la nature, de sillonner ses crêtes qui rendent l’humain si dérisoire, de se diluer dans les eaux chargées du patrimoine géologique exceptionnel de ce lieu, de sentir à travers ses pieds la force tellurique des profondeurs de la terre offerte miraculeusement au ciel par la tectonique des plaques!
 La Ferme des Légumes et des Rêves est heureuse de mettre dans votre assiette la force régénératrice des montagnes, ses parfums si uniques, ce lien indescriptible qui nous incarne ici et maintenant, cette source de sens profond, de plaisir et de joie.
+![](photos/ferme-vue-de-la-foret.jpg)
 
 ---
 
