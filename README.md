@@ -62,7 +62,7 @@ La Ferme des Légumes et des Rêves est heureuse de mettre dans votre assiette l
 ---
 
 ## Inspirer
-![ver de tgerre surpris](photos/illustrations/heudebert-surpris.png)
+![papillon pensif](photos/illustrations/papillon2.png)
 Idéalement située pour communiquer, en tête de proue de l’entrée ouest de la vallée, la Ferme des Légumes et des Rêves est consciente de son rôle à jouer comme espace de communication très visuel.
 Elle se veut un lieu inspirant et engagé vers des idéaux de gratitude envers le vivant et valorisation de la part belle de l’humain.
 L’accès au foncier pour les nouvelles générations est un problème réel, aussi bien pour l’habitat que les terres agricoles. La Ferme des Légumes et des Rêves met les voiles vers :
@@ -72,6 +72,8 @@ L’accès au foncier pour les nouvelles générations est un problème réel, a
 ---
 
 ## Envie de participer à l’aventure?
+![ver de tgerre surpris](photos/illustrations/heudebert-surpris.png)
+
 Quel meilleur outils pour construire la vie que de faire de nos rêves des réalités ? A travers la Ferme des Légumes et des Rêves, peut-etre pourrez vous réaliser les vôtres.
 La Ferme des Légumes et des Rêves peut accueillir stagiaire, woofeur-euse, petits coups de main lors de chantiers participatifs ou tout au long de l’année. Il y a aussi une cagnotte en ligne pour nous soutenir financièrement.  
   
