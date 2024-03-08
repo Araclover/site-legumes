@@ -1,4 +1,7 @@
-# Des légumes et des rêves
+---
+title: Des légumes et des rêves
+---
+
 ![heudebert le ver de terre](assets/photos/illustrations/heudebert-cote-petit.png)
 ![heudebert le ver de terre](assets/photos/illustrations/heudebert-cote.png)
 ## Une ferme dédiée à l'autonmie alimentaire de la vallée de l'Arac
