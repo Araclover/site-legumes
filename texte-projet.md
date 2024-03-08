@@ -1,4 +1,8 @@
-# Projet site la Ferme des Légumes et des Rêves
+---
+title: Projet site la Ferme des Légumes et des Rêves
+slug: projet
+---
+
 
 Au cœur des Pyrénées, dans le Parc Régional du Couserans, est installée une ferme qui ne cesse de rêver !
 
