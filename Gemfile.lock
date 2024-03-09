@@ -289,6 +289,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb
   jekyll
+  jekyll-remote-theme
   minima
   nokogiri
   pristine
