@@ -2,6 +2,8 @@
 title: Présentation
 ---
 
+<img src="assets/photos/home.png" class="home-img" alt="illustration de la ferme">
+
 ## Une ferme dédiée à l'autonomie alimentaire de la vallée de l'Arac
 Au cœur des Pyrénées, dans le Parc Régional du Couserans, on ne cesse de rêver !
 ![vue de la ferme dans la vallée](assets/photos/ferme-et-vallee-vu-du-ker.jpg)
