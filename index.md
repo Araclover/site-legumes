@@ -2,11 +2,13 @@
 title: Présentation
 ---
 
-<img src="assets/photos/home.png" class="home-img" alt="illustration de la ferme">
+<img src="assets/photos/ferme-ouverte.png" class="home-img" alt="ferme ouverte">
 
 ## Une ferme dédiée à l'autonomie alimentaire de la vallée de l'Arac
 Au cœur des Pyrénées, dans le Parc Régional du Couserans, on ne cesse de rêver !
-![vue de la ferme dans la vallée](assets/photos/ferme-et-vallee-vu-du-ker.jpg)
+
+<video src="assets/drone.mp4" controls width="70%" alt="vue de la ferme dans la vallée">La ferme vue du ciel</video>
+
 ## Circuit très court
 La Ferme des Légumes et des Rêves n’est pas médecin de famille mais se veut Ferme de Famille. Elle est dédiée aux habitants de la vallée. Consommer local c’est participer au vaste élan mondial pour rendre les peuples souverains de leur alimentation et affaiblir le ténia de la finance internationale. Chaque euro dépensé en circuit court participe à la construction du paradis local dans lequel nous vivons et non d’un paradis fiscal dans lequel nous ne vivons pas (eh oui, la grande distribution agro-alimentaire c’est aussi la grande exaction des richesses de tous au profit de quelques-uns).
 
@@ -27,7 +29,7 @@ La Ferme des Légumes et des Rêves et ses habitants ne sont raccordés au rése
 
 ### Autonomie alimentaire
 Ne nous leurrons pas, les légumes c’est délicieux mais actuellement sur terre, 75 % de l’alimentation humaine est constituée de céréales. Les anciens de la vallée ont été témoins des cultures de blé, de seigle, de sarrasin, de maïs. Bien sûr, il y avait 10 fois plus de bras qu’aujourd’hui et pas de taxes sur le travail, mais tous ensemble nous pouvons le faire.
-La Ferme des Légumes et des Rêves lance une grande collecte citoyenne de fonds pour acheter une mini-moissonneuse-batteuse. Nous pourrons ainsi récolter toutes les céréales mais aussi les légumineuses comme les lentilles, les haricots secs et même le colza pour l’huile.
+La Ferme des Légumes et des Rêves a co-financé une micro-moissonneuse-batteuse en co-propriété avec d'autres personnes paysannes des vallées alentour. Nous pouvons ainsi récolter toutes les céréales mais aussi les légumineuses comme les lentilles, les haricots secs et même le colza pour l’huile.
 ![fauche collective du sarrasin](assets/photos/fauche-du-sarrasin.jpg)
 
 ---
@@ -73,6 +75,8 @@ Elle se veut un lieu inspirant et engagé vers des idéaux de gratitude envers l
 L'accès au foncier pour les nouvelles générations est un problème réel, aussi bien pour l'habitat que les terres agricoles. La Ferme des Légumes et des Rêves met les voiles vers :
 - La sortie de la spéculation : rénover la ferme pour qu’elle puisse servir d’habitat à plusieurs personnes œuvrant au projet global afin que chacun puisse y entrer et en sortir facilement en revendant sa part à un prix accessible.
 - La participation active à l’évolution de la vallée vers un territoire capable d’inspirer les autres territoires en terme de prospérité alimentaire, de sobriété heureuse, de mixité sociale, de dynamique collective citoyenne joyeuse.
+![Hélène Decarpignies sur la moissonneuse](assets/photos/moi-sur-la-moissonneuse.jpg)
+
 
 ---
 
@@ -81,4 +85,6 @@ L'accès au foncier pour les nouvelles générations est un problème réel, aus
 Quel meilleur outil pour construire la vie que de faire de nos rêves des réalités ? À travers la Ferme des Légumes et des Rêves, peut-être pourrez-vous réaliser les vôtres.  
 
 La Ferme des Légumes et des Rêves peut accueillir stagiaire, woofeur·euse, petits coups de main lors de chantiers participatifs ou tout au long de l’année. Il y a aussi une cagnotte en ligne pour nous soutenir financièrement.
+
+<img src="assets/photos/home.png" class="home-img" alt="illustration de la ferme">
 
